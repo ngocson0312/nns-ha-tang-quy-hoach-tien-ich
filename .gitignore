@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# dữ liệu job không lên repo
+_htqh_*/
+*.mp4

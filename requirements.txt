@@ -1,0 +1,9 @@
+# nns-ban-do-ha-tang — thư viện Python (cài: python -m pip install -r requirements.txt)
+# Ngoài ra cần ffmpeg + ffprobe trong PATH (xem HUONG_DAN_CAI_DAT.md)
+numpy>=1.24
+scipy>=1.10
+opencv-python>=4.8
+Pillow>=10.0
+requests>=2.28
+scikit-image>=0.21
+fonttools>=4.40

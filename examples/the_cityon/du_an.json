@@ -1,0 +1,180 @@
+{
+ "ten": "The CityOn",
+ "vi_tri": [
+  20.95839,
+  105.98528
+ ],
+ "the_phu": "Ga số 11 · tuyến 8",
+ "logo": null,
+ "phoi_canh": {
+  "anh": "phoi_canh.png",
+  "bounds": [
+   [
+    20.962950016783296,
+    105.97861816374353
+   ],
+   [
+    20.957080410542552,
+    105.98617986035896
+   ]
+  ]
+ },
+ "tieu_de": [
+  "HẠ TẦNG GIAO THÔNG",
+  "QUANH THE CITYON"
+ ],
+ "tieu_de_phu": "đường sắt · vành đai · sân bay",
+ "watermark": null,
+ "nhac": "nhac_thu_noi_bo.wav",
+ "chuong": [
+  {
+   "ten": "Phía Bắc · nội đô",
+   "tuyen": [
+    "metro8",
+    "tuyen5"
+   ]
+  },
+  {
+   "ten": "Phía Nam",
+   "tuyen": [
+    "r1"
+   ]
+  },
+  {
+   "ten": "Đường bộ & cầu",
+   "tuyen": [
+    "vd35",
+    "vd4",
+    "giabinh"
+   ],
+   "spotlight": true
+  }
+ ],
+ "tuyen": {
+  "metro8": {
+   "ten": "Đường sắt tuyến 8",
+   "nhan": "TUYẾN 8",
+   "loai": "metro",
+   "mau": "#2FC85E",
+   "nguon": {
+    "trace": "georef/trace_45.json",
+    "key": "metro8"
+   },
+   "diem": [
+    {
+     "ten": [
+      "GA SỐ 10",
+      "ECOPARK"
+     ],
+     "ten_ngan": "GA 10",
+     "loai": "ga",
+     "latlon": [
+      20.963895,
+      105.933641
+     ],
+     "km": 5.6
+    },
+    {
+     "ten": "GA SỐ 9",
+     "ten_ngan": "GA 9",
+     "loai": "ga",
+     "latlon": [
+      20.983357,
+      105.891956
+     ],
+     "km": 10.1
+    }
+   ]
+  },
+  "tuyen5": {
+   "ten": "Đường sắt tuyến 5",
+   "nhan": "TUYẾN 5",
+   "nhan_phu": "hướng Long Biên",
+   "loai": "metro",
+   "mau": "#1E90FF",
+   "nguon": {
+    "trace": "georef/trace_45.json",
+    "key": "tuyen5"
+   }
+  },
+  "r1": {
+   "ten": "Kết nối R1",
+   "nhan": "KẾT NỐI VÀNH ĐAI R1",
+   "loai": "duong",
+   "mau": "#FE3A5A",
+   "nguon": {
+    "trace": "georef/trace_45.json",
+    "key": "r1"
+   }
+  },
+  "vd35": {
+   "ten": "Vành đai 3.5",
+   "loai": "duong",
+   "mau": "#FFB800",
+   "nguon": {
+    "trace": "georef/trace_45.json",
+    "key": "vd35"
+   },
+   "diem": [
+    {
+     "ten": "CẦU NGỌC HỒI",
+     "loai": "cau",
+     "osm": "^Cầu Ngọc Hồi$",
+     "km": 11.0
+    }
+   ]
+  },
+  "vd4": {
+   "ten": "Vành đai 4",
+   "loai": "duong",
+   "mau": "#CC75FF",
+   "nguon": {
+    "osm": "^(Đường cao tốc vành đai 4 vùng thủ đô Hà Nội|Cầu Mễ Sở)$",
+    "loai": "highway"
+   },
+   "diem": [
+    {
+     "ten": "CẦU MỄ SỞ",
+     "loai": "cau",
+     "osm": "^Cầu Mễ Sở$",
+     "ten_ngan": "CẦU MỄ SỞ"
+    },
+    {
+     "ten": [
+      "NÚT GIAO",
+      "SÂN BAY"
+     ],
+     "loai": "nutgiao",
+     "giao": "giabinh",
+     "km": 17.6,
+     "an_o_ket": true
+    }
+   ]
+  },
+  "giabinh": {
+   "ten": "Đường tới SB Gia Bình",
+   "loai": "sanbay",
+   "mau": "#E9EEF5",
+   "nguon": {
+    "osm": "^Đường kết nối Sân bay Gia Bình với Thủ đô Hà Nội$",
+    "loai": "highway"
+   },
+   "den": [
+    21.08,
+    106.25
+   ],
+   "diem": [
+    {
+     "ten": [
+      "SÂN BAY",
+      "GIA BÌNH"
+     ],
+     "loai": "sanbay",
+     "cuoi": true,
+     "ten_ngan": "SB GIA BÌNH"
+    }
+   ]
+  }
+ },
+ "khung_ket": null
+}

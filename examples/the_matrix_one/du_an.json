@@ -1,0 +1,334 @@
+{
+ "ten": "The Matrix One",
+ "vi_tri": [
+  21.009183,
+  105.774146
+ ],
+ "the_phu": "Số 1 Lê Quang Đạo · Nam Từ Liêm",
+ "logo": null,
+ "phoi_canh": null,
+ "tieu_de": [
+  "HẠ TẦNG GIAO THÔNG",
+  "QUANH THE MATRIX ONE"
+ ],
+ "tieu_de_phu": "vành đai · metro · cầu · sân bay",
+ "nhac": null,
+ "watermark": null,
+ "khung_ket": null,
+ "chuong": [
+  {
+   "ten": "Ngay cửa nhà",
+   "tuyen": [
+    "dltl",
+    "lqd"
+   ]
+  },
+  {
+   "ten": "Vành đai 3 · Phạm Hùng",
+   "tuyen": [
+    "vd3"
+   ]
+  },
+  {
+   "ten": "Metro đang chạy",
+   "tuyen": [
+    "t3",
+    "t2a"
+   ]
+  },
+  {
+   "ten": "Trung tâm thương mại",
+   "tuyen": [
+    "aeon"
+   ]
+  },
+  {
+   "ten": "Cầu & sân bay",
+   "tuyen": [
+    "nhattan",
+    "noibai"
+   ],
+   "spotlight": true
+  }
+ ],
+ "tuyen": {
+  "t5": {
+   "ten": "Metro 5 Văn Cao – Hòa Lạc",
+   "trang_thai": "dang_xay",
+   "loai": "metro",
+   "mau": "#2FC85E",
+   "nguon": {
+    "osm": "[Ss]ố 5",
+    "loai": "railway"
+   }
+  },
+  "dltl": {
+   "ten": "Đại lộ Thăng Long",
+   "nhan": "ĐẠI LỘ THĂNG LONG",
+   "loai": "duong",
+   "mau": "#FFB800",
+   "nguon": {
+    "osm": "^Đại lộ Thăng Long",
+    "loai": "highway",
+    "ban_kinh_km": 14
+   },
+   "huong": "both",
+   "ve_km": 1.4,
+   "diem": []
+  },
+  "lqd": {
+   "ten": "Lê Quang Đạo – SVĐ Mỹ Đình",
+   "nhan": "LÊ QUANG ĐẠO",
+   "loai": "duong",
+   "mau": "#FE3A5A",
+   "nguon": {
+    "duong_di": {
+     "den": [
+      21.0173295,
+      105.7672823
+     ],
+     "hang": "tertiary"
+    }
+   },
+   "diem": [
+    {
+     "ten": [
+      "CUNG HỮU NGHỊ",
+      "VIỆT – TRUNG"
+     ],
+     "ten_ngan": "CUNG HỮU NGHỊ",
+     "loai": "diem",
+     "latlon": [
+      21.012867,
+      105.77203
+     ],
+     "uu_tien": 2
+    },
+    {
+     "ten": [
+      "SÂN VẬN ĐỘNG",
+      "QUỐC GIA MỸ ĐÌNH"
+     ],
+     "ten_ngan": "SVĐ MỸ ĐÌNH",
+     "loai": "diem",
+     "latlon": [
+      21.020498,
+      105.763927
+     ],
+     "km": 1.0,
+     "uu_tien": 3
+    }
+   ]
+  },
+  "vd3": {
+   "ten": "Vành đai 3",
+   "nhan": "VÀNH ĐAI 3",
+   "nhan_phu": null,
+   "loai": "duong",
+   "mau": "#CC75FF",
+   "nguon": {
+    "osm": "^Đường cao tốc Vành đai 3 TP. Hà Nội$",
+    "loai": "highway",
+    "ban_kinh_km": 14
+   },
+   "huong": "both",
+   "ve_km": 3.2,
+   "diem": [
+    {
+     "ten": "KEANGNAM LANDMARK 72",
+     "ten_ngan": "KEANGNAM",
+     "loai": "diem",
+     "latlon": [
+      21.01738,
+      105.78402
+     ]
+    },
+    {
+     "ten": "TT HỘI NGHỊ QUỐC GIA",
+     "ten_ngan": "TT HỘI NGHỊ QG",
+     "loai": "diem",
+     "latlon": [
+      21.00647,
+      105.78704
+     ]
+    },
+    {
+     "ten": "BẾN XE MỸ ĐÌNH",
+     "ten_ngan": "BẾN XE MỸ ĐÌNH",
+     "loai": "diem",
+     "latlon": [
+      21.02826,
+      105.77753
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "ten": "Metro 3 (Nhổn – Cầu Giấy)",
+   "nhan": "TUYẾN 3",
+   "nhan_phu": "Nhổn – Cầu Giấy",
+   "loai": "metro",
+   "mau": "#1E90FF",
+   "nguon": {
+    "osm": "^Đường sắt đô thị 3 Hà Nội",
+    "loai": "railway",
+    "ban_kinh_km": 14
+   },
+   "huong": "both",
+   "ve_km": 3.5,
+   "diem": [
+    {
+     "ten": [
+      "GA ĐẠI HỌC",
+      "QUỐC GIA"
+     ],
+     "ten_ngan": "GA ĐHQG",
+     "loai": "ga",
+     "latlon": [
+      21.03666,
+      105.78269
+     ]
+    }
+   ]
+  },
+  "t2a": {
+   "ten": "Metro 2A (Cát Linh – Hà Đông)",
+   "nhan": "TUYẾN 2A",
+   "nhan_phu": "Cát Linh – Hà Đông",
+   "loai": "metro",
+   "mau": "#12B5A8",
+   "nguon": {
+    "osm": "^Đường sắt đô thị 2A Hà Nội",
+    "loai": "railway",
+    "ban_kinh_km": 14
+   },
+   "huong": "both",
+   "ve_km": 2.2,
+   "tu": [
+    20.98428,
+    105.79306
+   ],
+   "diem": [
+    {
+     "ten": "GA PHÙNG KHOANG",
+     "ten_ngan": "GA PHÙNG KHOANG",
+     "loai": "ga",
+     "latlon": [
+      20.98428,
+      105.79306
+     ]
+    }
+   ]
+  },
+  "aeon": {
+   "ten": "Đường tới AEON Mall Hà Đông",
+   "loai": "duong",
+   "mau": "#2FC85E",
+   "nguon": {
+    "duong_di": {
+     "den": [
+      20.98943,
+      105.75121
+     ],
+     "hang": "tertiary"
+    }
+   },
+   "diem": [
+    {
+     "ten": [
+      "AEON MALL",
+      "HÀ ĐÔNG"
+     ],
+     "ten_ngan": "AEON HÀ ĐÔNG",
+     "loai": "diem",
+     "latlon": [
+      20.98943,
+      105.75121
+     ],
+     "uu_tien": 2
+    }
+   ]
+  },
+  "nhattan": {
+   "ten": "Đường ra cầu Nhật Tân",
+   "loai": "duong",
+   "mau": "#FF7A1A",
+   "nguon": {
+    "duong_di": {
+     "qua": [
+      [
+       21.08433,
+       105.81662
+      ]
+     ],
+     "den": [
+      21.11418,
+      105.82722
+     ],
+     "hang": "primary"
+    }
+   },
+   "diem": [
+    {
+     "ten": "CẦU NHẬT TÂN",
+     "ten_ngan": "CẦU NHẬT TÂN",
+     "loai": "cau",
+     "latlon": [
+      21.0993,
+      105.8219
+     ],
+     "uu_tien": 2
+    }
+   ]
+  },
+  "noibai": {
+   "ten": "Đường ra SB Nội Bài",
+   "loai": "sanbay",
+   "mau": "#E9EEF5",
+   "nguon": {
+    "duong_di": {
+     "qua": [
+      [
+       21.09034,
+       105.78598
+      ],
+      [
+       21.11197,
+       105.78751
+      ]
+     ],
+     "den": [
+      21.21868,
+      105.79161
+     ],
+     "hang": "primary"
+    }
+   },
+   "diem": [
+    {
+     "ten": "CẦU THĂNG LONG",
+     "ten_ngan": "CẦU THĂNG LONG",
+     "loai": "cau",
+     "latlon": [
+      21.1002,
+      105.7866
+     ],
+     "uu_tien": 2
+    },
+    {
+     "ten": [
+      "SÂN BAY",
+      "NỘI BÀI (T2)"
+     ],
+     "ten_ngan": "SB NỘI BÀI",
+     "loai": "sanbay",
+     "latlon": [
+      21.21868,
+      105.79161
+     ],
+     "uu_tien": 2
+    }
+   ]
+  }
+ }
+}
